@@ -1,0 +1,27 @@
+.highest {
+    color: blue !important;
+}
+
+.good {
+    color: green !important;
+}
+
+.avarage {
+    color: #E2B534 !important;
+}
+
+.bad {
+    color: red !important;
+}
+
+.absent {
+    color: #C0C0C0 !important
+}
+
+.light {
+    background-color: #FFF;
+}
+
+.gray {
+    background-color: #F9F9F9;
+}
